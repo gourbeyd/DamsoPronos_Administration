@@ -4,7 +4,7 @@
 # Administration
 
 Voici la partie "administration" du projet DamsoPronos.
-L'objectif de cette partie est d'automatiser les tâches quotidiennes du projet
+L'objectif de cette partie est d'automatiser les tâches quotidiennes du projet.
 
 Deux tâches sont à faire régulièrement :
 - Faire tourner les modèles d'IA sur les matchs à venir.
