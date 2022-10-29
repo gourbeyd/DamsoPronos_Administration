@@ -3,7 +3,7 @@ F1,Monaco,59,82,29,40,6,6
 F1,Lyon,94,85,42,33,6,6
 F1,Troyes,87,71,26,34,6,6
 F1,Rennes,93,98,40,36,6,6
-F1,Toulouse,93,52,41,18,7,5
+F1,Toulouse,93,61,41,18,7,6
 F1,Nice,84,52,26,16,6,6
 F1,AC Ajaccio,68,60,14,19,6,6
 F1,Strasbourg,61,67,20,26,6,6
@@ -17,7 +17,7 @@ F1,Brest,54,69,15,31,5,7
 F1,Clermont,64,60,18,21,6,6
 F1,Nantes,65,73,20,23,5,7
 F1,Reims,86,61,31,22,6,6
-F1,Lens,99,76,33,23,6,6
+F1,Lens,112,76,41,23,7,6
 F1,Marseille,105,66,34,27,7,5
 E0,Brentford,67,62,30,21,6,6
 E0,Manchester Utd,82,72,27,30,5,6
@@ -73,14 +73,14 @@ D1,RB Leipzig,86,92,38,28,6,6
 D1,Bochum,74,66,27,22,6,6
 D1,Eintracht Francfort,77,75,29,30,6,6
 D1,Fribourg,123,63,52,21,6,6
-D1,Werder Brême,65,77,31,30,6,6
-D1,Hertha Berlin,87,61,29,21,7,5
+D1,Werder Brême,80,77,35,30,7,6
+D1,Hertha Berlin,87,70,29,22,7,6
 D1,Bayer Leverkusen,97,48,38,25,6,6
 D1,Hoffenheim,126,53,46,19,7,5
 D1,Bayern Munich,150,119,73,48,6,6
 SP1,Valence,112,67,33,21,7,5
 SP1,Cadix CF,62,35,16,5,7,5
-SP1,Majorque,50,62,21,24,5,7
+SP1,Majorque,62,62,26,24,6,7
 SP1,Valladolid,74,64,30,22,6,6
 SP1,Osasuna,81,70,25,15,6,6
 SP1,Celta Vigo,70,78,22,25,6,6
@@ -89,7 +89,7 @@ SP1,FC Séville,69,72,17,24,5,7
 SP1,Villarreal,58,89,31,32,4,8
 SP1,Elche,63,34,20,15,6,6
 SP1,Betis,88,41,28,15,7,5
-SP1,Espanyol,100,47,27,17,7,5
+SP1,Espanyol,100,54,27,19,7,6
 SP1,Almeria,62,68,29,22,6,6
 SP1,Ath. Bilbao,96,96,24,35,6,6
 SP1,Real Sociedad,67,85,28,36,5,7
