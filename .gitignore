@@ -2,3 +2,5 @@ conf.py
 secours/conf.py
 *__pycache__
 *geckodriver.log
+secours/*
+teamStats.csv
