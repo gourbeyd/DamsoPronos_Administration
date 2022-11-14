@@ -4,3 +4,5 @@ secours/conf.py
 *geckodriver.log
 secours/*
 teamStats.csv
+teamStats.csv
+secours/secours_delete.py
